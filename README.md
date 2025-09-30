@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Muhammad Ali Khan,<br><br>Data Scientist | Machine Learning Enthusiast | Web Development Learner<br>>Passionate about turning data into actionable insights.<br>>Experienced with Python, Machine Learning, and Data Analysis.<br>>knowledge of Web Development.<br>>Skilled in tools like Pandas, NumPy, Matplotlib, Scikit-Learn.<br>>Exploring Deep Learning and real-world applications of AI.<br>Reach me at:<br>Email: alikhann1685@gmail.com<br>LinkedIn: www.linkedin.com/in/muhammad-ali-khan-1925bb33a
+Hi, I’m Muhammad Ali Khan,<br><br>Data Scientist | Machine Learning Enthusiast | Web Development Learner<br>>Passionate about turning data into actionable insights.<br>>Experienced with Python, Machine Learning, and Data Analysis.<br>>knowledge of Web Development.<br>>Skilled in tools like Pandas, NumPy, Matplotlib, Scikit-Learn.<br>>Exploring Deep Learning and real-world applications of AI.<br>Reach me at:<br>Email: alikhann1685@gmail.com<br>LinkedIn: www.linkedin.com/in/muhammad-ali-khan-1925bb33a<br>Portfolio: https://portfolio-fbp6.vercel.app/
 
 
 ## 🌐 Socials:
